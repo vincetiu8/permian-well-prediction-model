@@ -3,3 +3,4 @@
 11.29.2021_Permian_30239_Wells-202129111735-Hw2YK-Directional.csv filter=lfs diff=lfs merge=lfs -text
 11.29.2021_Permian_30239_Wells-202129111735-Hw2YK-Header.csv filter=lfs diff=lfs merge=lfs -text
 11.29.2021_Permian_30239_Wells-202129111735-Hw2YK-Production.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
